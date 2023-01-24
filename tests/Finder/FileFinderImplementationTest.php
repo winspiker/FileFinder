@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace FileFinder\Tests\Core;
+namespace FileFinder\Tests\Finder;
 
 use FileFinder\Finder\FileFinderImplementation;
 use FileFinder\Exception\EmptyDirectoryException;
