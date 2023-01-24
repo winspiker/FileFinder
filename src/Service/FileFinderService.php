@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace FileFinder\Services;
+namespace FileFinder\Service;
 
 use FileFinder\Exception\EmptyDirectoryException;
 use FileFinder\Exception\OptionsConflictException;
-use FileFinder\Helpers\FileManager;
-use FileFinder\Models\Options;
+use FileFinder\Helper\FileManager;
+use FileFinder\Model\Options;
 
 final class FileFinderService
 {

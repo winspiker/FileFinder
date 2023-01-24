@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace FileFinder\Models;
+namespace FileFinder\Model;
 
 final class Options
 {

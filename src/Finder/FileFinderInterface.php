@@ -1,6 +1,6 @@
 <?php
 
-namespace FileFinder\Core;
+namespace FileFinder\Finder;
 
 interface FileFinderInterface
 {

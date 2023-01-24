@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace FileFinder\Core;
+namespace FileFinder\Finder;
 
-use FileFinder\Models\Options;
-use FileFinder\Services\FileFinderService;
+use FileFinder\Model\Options;
+use FileFinder\Service\FileFinderService;
 
 class FileFinderImplementation implements FileFinderInterface
 {

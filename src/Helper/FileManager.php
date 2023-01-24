@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace FileFinder\Helpers;
+namespace FileFinder\Helper;
 
 final class FileManager
 {

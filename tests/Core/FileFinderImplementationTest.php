@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace FileFinder\Tests\Core;
 
-use FileFinder\Core\FileFinderImplementation;
+use FileFinder\Finder\FileFinderImplementation;
 use FileFinder\Exception\EmptyDirectoryException;
 use FileFinder\Exception\OptionsConflictException;
 use PHPUnit\Framework\TestCase;

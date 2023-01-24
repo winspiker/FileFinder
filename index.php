@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use FileFinder\Core\FileFinderImplementation;
+use FileFinder\Finder\FileFinderImplementation;
 
 require_once 'vendor/autoload.php';
 
